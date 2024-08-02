@@ -1,4 +1,4 @@
-# TOMATO - (Food Delivery Application)
+# TOMATO - (Full Stack Food Delivery Application)
 ## Live link - https://tomato-k786.onrender.com
 This is a full-stack Food Delivery Application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It demonstrates the implementation of a scalable and interactive platform for ordering food online.
 
